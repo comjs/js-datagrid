@@ -1,0 +1,1 @@
+export {JSDataGrid} from './src/lib'
